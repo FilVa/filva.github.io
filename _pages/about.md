@@ -24,7 +24,7 @@ to 3D shape modelling of challenging point clouds.
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year > "2019" %}
+  {% if year > "2021" %}
 	{% include recent-news.html %}
   {% endif %}
 {% endfor %}
