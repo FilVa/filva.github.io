@@ -8,7 +8,7 @@ toc: true
 
 
 
-The main classes within this module are
+The main classes within this module are:
 - ShapesRegistration - to perform registration with different methods
 - RegMetrics - to evaluate results from registration under different metrics.
 
