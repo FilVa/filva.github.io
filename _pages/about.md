@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Researcher at [NOVA School of Science and Technology](https://www.fct.unl.pt/en) with [NOVA LINCS](https://nova-lincs.di.fct.unl.pt/) and [NOVA Math](https://novamath.fct.unl.pt/).
+I am an Assistant Researcher at [CEMAT](https://cemat.tecnico.ulisboa.pt/main.php) and the [Mathematics Department](https://math.tecnico.ulisboa.pt/index.php?lang=en) at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/).
 My main interests include Machine Learning, Optimization, 3D Shape Modelling. I received my PhD in <b>Mathematical Sciences</b> form the [University of Milan](https://www.unimi.it/en) (2022) and BSc and MSc (2018) in <b>Aerospace Engineering</b> from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/). 
 The PhD program was part of  [BIGMATH](http://itn-bigmath.unimi.it/) - an EU funded project in the areas of optimization, statistics, and large-scale linear algebra for Big Data.
 My PhD thesis [Gaussian Processes for 3D Shape Modelling of Noisy and Incomplete Data. An Application to Human Ears Reconstruction](https://air.unimi.it/handle/2434/947830), focused on the application of Gaussian Processes 
